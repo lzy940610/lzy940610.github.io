@@ -1,4 +1,173 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-05-17T00:43:49+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2022/05/17/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-05-17T00:41:20+08:00</published><updated>2022-05-17T00:41:20+08:00</updated><id>http://localhost:4000/jekyll/update/2022/05/17/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/05/17/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-05-18T00:48:29+08:00</updated><id>/feed.xml</id><title type="html">Li Zhenyu’s Blog</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">2022前端工程师软件推荐</title><link href="/2022/05/18/2022%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90.html" rel="alternate" type="text/html" title="2022前端工程师软件推荐" /><published>2022-05-18T00:00:00+08:00</published><updated>2022-05-18T00:00:00+08:00</updated><id>/2022/05/18/2022%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90</id><content type="html" xml:base="/2022/05/18/2022%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90.html"><![CDATA[<ul>
+  <li>Design 设计
+    <ul>
+      <li><a href="https://www.sketch.com/">sketch</a></li>
+      <li><a href="https://www.figma.com/">figma</a></li>
+    </ul>
+  </li>
+  <li>效率
+    <ul>
+      <li><a href="https://www.alfredapp.com/">Alfred 4</a></li>
+    </ul>
+  </li>
+  <li>Note 笔记
+    <ul>
+      <li><a href="https://obsidian.md/">Obsidian</a></li>
+    </ul>
+  </li>
+  <li>Learn 单词学习
+    <ul>
+      <li><a href="https://apps.ankiweb.net/">anki</a></li>
+    </ul>
+  </li>
+  <li>图床
+    <ul>
+      <li><a href="https://www.jsdelivr.com/">jsdelivr</a></li>
+    </ul>
+  </li>
+  <li>编辑器 生成文档
+    <ul>
+      <li><a href="https://github.com/doocs/md">docs</a></li>
+    </ul>
+  </li>
+  <li>工具 🔧
+    <ul>
+      <li>Unite: Web App 2 Desktop App</li>
+      <li>Alfred: Boosts your efficiency with hotkeys, keywords and text expansion</li>
+      <li>Grammarly: Grammar Checker and Writing App</li>
+    </ul>
+  </li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Design 设计 sketch figma 效率 Alfred 4 Note 笔记 Obsidian Learn 单词学习 anki 图床 jsdelivr 编辑器 生成文档 docs 工具 🔧 Unite: Web App 2 Desktop App Alfred: Boosts your efficiency with hotkeys, keywords and text expansion Grammarly: Grammar Checker and Writing App]]></summary></entry><entry><title type="html">关于🪜的使用与安装</title><link href="/2022/05/18/%E5%85%B3%E4%BA%8E-%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8.html" rel="alternate" type="text/html" title="关于🪜的使用与安装" /><published>2022-05-18T00:00:00+08:00</published><updated>2022-05-18T00:00:00+08:00</updated><id>/2022/05/18/%E5%85%B3%E4%BA%8E%F0%9F%AA%9C%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8</id><content type="html" xml:base="/2022/05/18/%E5%85%B3%E4%BA%8E-%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8.html"><![CDATA[<h3 id="是什么">🪜是什么？</h3>
+
+<p>因为一些众所周知的原因，一些国外站点我们是无法访问到的，比如：google、youtube等</p>
+
+<h3 id="有什么用">🪜有什么用？</h3>
+
+<p>不得不承认，在技术与创新方面，相对于国内，国外的这方面的氛围和发展的确会好一点，很多前沿的技术都是优先发表在国外的一些站点的，如果想要跟上国际一流水平的节奏还是需要去参考借鉴一下外国友人的一些智慧结晶，一言以蔽之：<strong>开眼看世界</strong></p>
+
+<h3 id="如何安装">如何安装🪜？</h3>
+
+<h4 id="step1需要购买-vpnhttpsenwikipediaorgwikivirtual_private_network-服务器">Step1：需要购买 [VPN][https://en.wikipedia.org/wiki/Virtual_private_network] 服务器</h4>
+
+<p>我是在这里买的 网络虽然不是很稳定 但是胜在便宜 一年 1000GB/ 188RMB</p>
+
+<p><a href="https://sgi.anycast.gay/#">🪜传送门</a></p>
+
+<p><a href="https://dlercloud.com/user/shop">dler</a></p>
+
+<p>买了个 388 丐版 好像没啥用 也灭快很多</p>
+
+<p>注册 + 购买VNP服务器后就按照这里面的教程来安装就好</p>
+
+<p><img src="https://raw.githubusercontent.com/lzy940610/assets/main/img/20220504194641.png" alt="" /></p>
+
+<h3 id="如何在自己终端设备上使用">如何在自己终端设备上使用🪜？</h3>
+
+<p><a href="https://sgi.anycast.gay/user/tutorial">Macos</a> 安装还好比较方便，就不多做赘述了</p>
+
+<p>主要是移动设备比较麻烦</p>
+
+<h3 id="移动设备如何使用">移动设备如何使用🪜？</h3>
+
+<p>VNP 服务器搞定 ✅</p>
+
+<p>需要下载 Shadowrocket 小火箭🚀</p>
+
+<p>国区App Store 被封了 不给上架 只能去 <strong>美区App Store</strong>  <strong>付费购买</strong></p>
+
+<p><a href="https://zhuanlan.zhihu.com/p/367821925">如何注册美区Apple账号</a></p>
+
+<p><a href="https://www.zhihu.com/question/266838782">如何使用美区账号购买付费App</a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[🪜是什么？]]></summary></entry><entry><title type="html">如何搭建自己的图床</title><link href="/2022/05/18/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%9B%BE%E5%BA%8A.html" rel="alternate" type="text/html" title="如何搭建自己的图床" /><published>2022-05-18T00:00:00+08:00</published><updated>2022-05-18T00:00:00+08:00</updated><id>/2022/05/18/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%9B%BE%E5%BA%8A</id><content type="html" xml:base="/2022/05/18/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%9B%BE%E5%BA%8A.html"><![CDATA[<h1 id="github建仓">github建仓</h1>
+
+<h2 id="参考文档">参考文档</h2>
+
+<p><a href="https://zhuanlan.zhihu.com/p/353775844">GH + PicGO搭建图床</a></p>
+
+<p><a href="https://www.jsdelivr.com/?docs=gh">使用jsdelivr对gh进行cdn加速</a></p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/lzy940610/assets/img/20220508162036.png" alt="" /></p>
+
+<h3 id="场景原始截图很大如何破1m酱紫">场景：原始截图很大如何破？（1M酱紫）</h3>
+
+<p><a href="https://github.com/Molunerfinn/PicGo/issues/532">Issues 地址</a></p>
+
+<p>在日常使用中我想大部分还是用来上传自己的一些演示demo截图比较多，但是有个问题我无论是 Macos自带的截图工具亦或是 微信、钉钉、飞书等协同软件截图出来的源文件大差不差，比如：一张全屏的截图差不多进行 1.5M ，对于这种情况有如下解决方案</p>
+
+<p><img src="https://raw.githubusercontent.com/lzy940610/assets/main/img/20220504171503.png" alt="" /></p>
+
+<h4 id="自行手动对原图进行一次压缩-如tinypng-小熊猫压一下">自行（手动）对原图进行一次压缩 如：tinypng 小熊猫压一下</h4>
+
+<p>这个还是比较笨重和繁琐的，作为有DRY（Don’t repeat yourself）原则的一名程序员，肯定不要这么搞，比较笨</p>
+
+<h4 id="在上传前自动化压缩一次本地online">在上传前自动化压缩一次（本地、online）</h4>
+
+<p>在准备自己搞之前，去PicGo仓库下的Issues搜索了一下，看有木有现成的轮子，果不其安然有个老哥写了差点，我就不用重复造轮子了（不重复造轮子 也是DRY原则之一😊）</p>
+
+<p><img src="https://raw.githubusercontent.com/lzy940610/assets/main/img/20220504172139.png" alt="" /></p>
+
+<h3 id="如何使用picgo压缩插件">如何使用PicGo压缩插件？</h3>
+
+<p><a href="https://github.com/JuZiSang/picgo-plugin-compress">文档传送门</a></p>
+
+<h3 id="使用后效果如何">使用后效果如何？</h3>
+
+<p>1.5M -&gt; 268kb  🐼 🐮 🍺 ！！</p>
+
+<p><img src="https://raw.githubusercontent.com/lzy940610/assets/main/img/20220504172449.png" alt="" /></p>]]></content><author><name></name></author><summary type="html"><![CDATA[github建仓]]></summary></entry><entry><title type="html">如何注册TG账号</title><link href="/2022/05/18/%E5%A6%82%E4%BD%95%E6%B3%A8%E5%86%8CTG%E8%B4%A6%E5%8F%B7.html" rel="alternate" type="text/html" title="如何注册TG账号" /><published>2022-05-18T00:00:00+08:00</published><updated>2022-05-18T00:00:00+08:00</updated><id>/2022/05/18/%E5%A6%82%E4%BD%95%E6%B3%A8%E5%86%8CTG%E8%B4%A6%E5%8F%B7</id><content type="html" xml:base="/2022/05/18/%E5%A6%82%E4%BD%95%E6%B3%A8%E5%86%8CTG%E8%B4%A6%E5%8F%B7.html"><![CDATA[<h2 id="01客户端下载-macos">01｜客户端下载 Macos</h2>
+
+<p><a href="https://telegram.org/">https://telegram.org/</a></p>
+
+<h2 id="02设置客户端代理">02｜设置客户端代理</h2>
+
+<h3 id="添加代理">添加代理</h3>
+
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/2865645/1651314070805-55362ca3-913a-4bbc-b66c-9db5391f0240.png" alt="" /></p>
+
+<p>小飞机 &gt; 高级配置</p>
+
+<p>小飞机那里搞？这里可以买 丐版 一年100快</p>
+
+<p><a href="https://sgi.anycast.gay/user">https://sgi.anycast.gay/user</a></p>
+
+<h3 id="查看梯子ip和端口号">查看梯子IP和端口号</h3>
+
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/2865645/1651314123736-f5218b97-2548-45d9-9323-9cc3a0e6d5f7.png" alt="" /></p>
+
+<h3 id="telegram填写梯子ip和端口">Telegram填写梯子IP和端口</h3>
+
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/2865645/1651314236470-617879ce-c97a-4f39-8fbb-2ebcfc295d97.png" alt="" /></p>
+
+<h3 id="等待代理连接成功">等待代理连接成功</h3>
+
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/2865645/1651314333042-0c8127e3-4b2f-46e8-9c9f-ac0142c123bd.png" alt="" /></p>
+
+<h2 id="03注册tg账号美区">03｜注册TG账号（美区）</h2>
+
+<p>淘宝买一个 Google Voice号码 用来接收美区验证码</p>
+
+<p>引导文档</p>
+
+<p><a href="https://www.myggpark.com/google-voice-usage-method/">https://www.myggpark.com/google-voice-usage-method/</a></p>
+
+<p>淘宝店铺 搜索 “gv号码” 看情况买一个</p>
+
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/2865645/1651314496034-164089e3-2ab1-435c-9e99-c44ef851d444.png" alt="" /></p>
+
+<h3 id="gv转号">GV转号</h3>
+
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/2865645/1651314581847-36404c0c-33b8-463a-825a-839b23d9009e.png" alt="" /></p>
+
+<p><a href="https://www.myggpark.com/how-to-transfer-google-voice-out-in-2022-on-pc/">GV转号</a></p>
+
+<p><img src="https://cdn.nlark.com/yuque/0/2022/png/2865645/1651319338584-4f2a4227-01f5-408f-8754-b8f5e871aa22.png" alt="" /></p>
+
+<h3 id="如何注册美区账号">如何注册美区账号</h3>
+
+<p><a href="https://zhuanlan.zhihu.com/p/367821925">https://zhuanlan.zhihu.com/p/367821925</a></p>
+
+<h3 id="美区地址生成器">美区地址生成器</h3>
+
+<p><a href="https://mp.weixin.qq.com/s/vLXUSlLgiddAmNbcQk0tAg">https://mp.weixin.qq.com/s/vLXUSlLgiddAmNbcQk0tAg</a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[01｜客户端下载 Macos]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="/jekyll/update/2022/05/17/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-05-17T22:42:56+08:00</published><updated>2022-05-17T22:42:56+08:00</updated><id>/jekyll/update/2022/05/17/welcome-to-jekyll</id><content type="html" xml:base="/jekyll/update/2022/05/17/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
 
 <p>Jekyll requires blog post files to be named according to the following format:</p>
 
@@ -14,4 +183,290 @@
 <span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
 <span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
 
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry></feed>
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">2022年非技术书单推荐</title><link href="/2022/05/17/2022%E9%9D%9E%E6%8A%80%E6%9C%AF%E4%B9%A6%E5%8D%95.html" rel="alternate" type="text/html" title="2022年非技术书单推荐" /><published>2022-05-17T00:00:00+08:00</published><updated>2022-05-17T00:00:00+08:00</updated><id>/2022/05/17/2022%E9%9D%9E%E6%8A%80%E6%9C%AF%E4%B9%A6%E5%8D%95</id><content type="html" xml:base="/2022/05/17/2022%E9%9D%9E%E6%8A%80%E6%9C%AF%E4%B9%A6%E5%8D%95.html"><![CDATA[<h2 id="2022-选择阅读的书籍">2022 选择阅读的书籍</h2>
+
+<h3 id="原则不贪多-不同领域的一本经典即可">原则：不贪多 不同领域的一本经典即可</h3>
+
+<p>一年12本左右即可 平均每月一本 碎片化时间阅读</p>
+
+<p><img src="/assets/scrrenshot.jpeg" alt="My helpful screenshots" /></p>
+
+<ul>
+  <li>非虚构类
+    <ul>
+      <li>心理学
+        <ul>
+          <li>《影响力》✅</li>
+        </ul>
+      </li>
+      <li>大格局
+        <ul>
+          <li>《气候经济与人类未来》✅</li>
+        </ul>
+      </li>
+      <li>创业财富
+        <ul>
+          <li>《黑客与画家》✅</li>
+          <li>《穷查理宝典》✅</li>
+        </ul>
+      </li>
+      <li>行为学
+        <ul>
+          <li>《怪诞行为学》一、二册 ✅</li>
+        </ul>
+      </li>
+      <li>好奇心
+        <ul>
+          <li>《万物发明指南》✅</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>虚构类
+    <ul>
+      <li>《围城》✅</li>
+      <li>《呐喊》❌ 好像版本有点问题 z-lib 10次下载机会没了额。。。</li>
+      <li>《仿生人会梦见电子羊吗？》✅</li>
+      <li>《许三观卖血记》✅</li>
+      <li>《三体》✅</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="从哪里获取书籍">从哪里获取书籍？</h3>
+
+<ul>
+  <li><a href="https://en.z-lib.org">z-lib</a> 下载免费的电子书版
+    <ul>
+      <li>优点：基本上都能搜索到下载 提供各种格式的下载 如：epub、pdf等</li>
+      <li>缺点：一些比较冷门的书籍 会有一些奇奇怪怪的资源 参杂一些广告</li>
+      <li>适用：快速概览、通读一本书</li>
+    </ul>
+  </li>
+  <li>kindle购买
+    <ul>
+      <li>优点：结合 kindle 排版和阅读体验都会比较好</li>
+      <li>缺点：跟kindle强绑定 对文本进行了加密 不像PDF格式易于传播</li>
+      <li>适用：追求体验与正版资源</li>
+    </ul>
+  </li>
+  <li>电商平台购买实体书 如：当当、JD等
+    <ul>
+      <li>优点：优于前面二者</li>
+      <li>缺点：不便于携带</li>
+      <li>适用：工具类、查询类书本 如：计算机原理、代码大全等技术、工具类书籍</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="用什么读">用什么读？</h3>
+
+<ul>
+  <li>设备自带的阅读器：方面快捷 不需要安装冗余App 有源文件就可以立马开启阅读
+    <ul>
+      <li>IOS 推荐 ✅
+        <ul>
+          <li>Books：需要 epub 格式书本 iCloud可以同步</li>
+          <li>Preview：PDF即可 打开</li>
+        </ul>
+      </li>
+      <li>Android：华米OV厂商自带的</li>
+    </ul>
+  </li>
+  <li>阅读器软件
+    <ul>
+      <li>微信读书 - 分享与存储比较方便</li>
+      <li>Amazon Kindle - 需要购买kindle的正版数据 补充没有 Kindle阅读器的尴尬</li>
+    </ul>
+  </li>
+  <li>专业的阅读器设备
+    <ul>
+      <li>Kindle阅读器： 有钱有时间有阅读环境可以冲！</li>
+      <li>华米OV出品的一些专业阅读器</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="什么时候读">什么时候读？</h3>
+
+<p>碎片化的时间去阅读 比如：饭前、饭后的摸鱼时间 睡觉前等</p>
+
+<ul>
+  <li>工作日 🧱 - 非技术类书籍
+    <ul>
+      <li>三餐就餐期间：零碎时间 加起来 30mins差不多有</li>
+      <li>睡前阅读：静心 + 助眠</li>
+    </ul>
+  </li>
+  <li>休息日 ♨️ - 技术类书籍
+    <ul>
+      <li>整块时间 阅读专业的技术类书籍 如：《代码大全》等需要思考与练习的</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="怎么做阅读笔记">怎么做阅读笔记？</h4>
+
+<ul>
+  <li>如果是 epub 或者 pdf 格式的书籍源文件 就可以好好直接适用相应的阅读器的备注功能即可
+    <ul>
+      <li>Books</li>
+      <li>Preview</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="书籍清单汇总">书籍清单汇总</h3>
+<ul>
+  <li>非虚构类
+    <ul>
+      <li>《事实》</li>
+      <li>《一生的旅途》</li>
+      <li>《美国陷阱》</li>
+      <li>《性学入门》</li>
+      <li>《气候经济与人类未来》</li>
+      <li>《黑客与画家》</li>
+      <li>《贪婪的多巴胺》</li>
+      <li>《刘擎西方现代思想讲义》</li>
+      <li>《冷血》</li>
+      <li>《江城》</li>
+      <li>《桶川跟踪狂杀人案》</li>
+    </ul>
+  </li>
+  <li>虚构类
+    <ul>
+      <li>《人鼠之间》</li>
+      <li>《没有人给他写信的上校》</li>
+      <li>《太阳照常升起》</li>
+      <li>《远山淡影》</li>
+      <li>《莫失莫忘》</li>
+      <li>《醉步男》</li>
+      <li>《潮骚》</li>
+      <li>《许三观卖血记》</li>
+      <li>《兄弟》</li>
+      <li>《伊凡伊里奇之死》</li>
+      <li>《癌症楼》</li>
+      <li>《呐喊》</li>
+    </ul>
+  </li>
+  <li>好奇心
+    <ul>
+      <li>《塑造世界经济的五十项伟大发明》</li>
+      <li>《我们如何走到今天》</li>
+      <li>《万物发明指南》</li>
+    </ul>
+  </li>
+  <li>心理学
+    <ul>
+      <li>《影响力》</li>
+    </ul>
+  </li>
+  <li>经济学
+    <ul>
+      <li>《怪诞行为学》（只推荐第一、第二册）</li>
+      <li>《思考：快与慢》- 丹尼尔卡尔曼</li>
+      <li>《经济学原理》</li>
+    </ul>
+  </li>
+  <li>财富
+    <ul>
+      <li>《小狗钱钱》</li>
+      <li>《穷查理宝典》</li>
+    </ul>
+  </li>
+  <li>文学类
+    <ul>
+      <li>推理小说
+        <ul>
+          <li>东野圭吾
+            <ul>
+              <li>《恶意》</li>
+              <li>《嫌疑人X的献身》</li>
+              <li>《白夜行》</li>
+              <li>《解忧杂货铺》</li>
+            </ul>
+          </li>
+          <li>阿加莎克里斯蒂
+            <ul>
+              <li>《罗杰疑案》</li>
+              <li>《无人生还》</li>
+              <li>《东方快车谋杀案》</li>
+            </ul>
+          </li>
+          <li>岛田庄司
+            <ul>
+              <li>《占星术杀人魔法》</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>科幻小说
+        <ul>
+          <li>《三体》</li>
+          <li>《仿生人会梦见电子羊吗？》</li>
+        </ul>
+      </li>
+      <li>严肃文学
+        <ul>
+          <li>钱钟书
+            <ul>
+              <li>《围城》</li>
+            </ul>
+          </li>
+          <li>余华
+            <ul>
+              <li>《活着》</li>
+            </ul>
+          </li>
+          <li>莫言
+            <ul>
+              <li>《生死疲劳》</li>
+            </ul>
+          </li>
+          <li>阎连科（预言：诺贝尔文学候选人）
+            <ul>
+              <li>《生死晶黄》</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>文学作品
+        <ul>
+          <li>芥川龙之介
+            <ul>
+              <li>《竹林中》</li>
+              <li>《罗生门》</li>
+            </ul>
+          </li>
+          <li>乔治奥威尔
+            <ul>
+              <li>《动物农场》</li>
+            </ul>
+          </li>
+          <li>卡尔维诺
+            <ul>
+              <li>《树上的男爵》</li>
+            </ul>
+          </li>
+          <li>茨威格
+            <ul>
+              <li>《一个女人一生中的二十四小时》</li>
+            </ul>
+          </li>
+          <li>卡夫卡
+            <ul>
+              <li>《变形记》</li>
+              <li>《城堡》</li>
+            </ul>
+          </li>
+          <li>海明威
+            <ul>
+              <li>《老人与海》</li>
+            </ul>
+          </li>
+          <li>《唐吉訶德》</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[2022 选择阅读的书籍]]></summary></entry><entry><title type="html">test categories</title><link href="/classic/hollywood/2022/05/17/test-category.html" rel="alternate" type="text/html" title="test categories" /><published>2022-05-17T00:00:00+08:00</published><updated>2022-05-17T00:00:00+08:00</updated><id>/classic/hollywood/2022/05/17/test-category</id><content type="html" xml:base="/classic/hollywood/2022/05/17/test-category.html"><![CDATA[<h1 id="test-categories">test categories</h1>]]></content><author><name></name></author><category term="classic" /><category term="hollywood" /><summary type="html"><![CDATA[test categories]]></summary></entry></feed>
