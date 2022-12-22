@@ -2,7 +2,7 @@
 title: "如何使用Github + jsDelivr + PicGo 搭建免费图床"
 excerpt: "如何使用Github + jsDelivr + PicGo 搭建免费图床"
 publishDate: "2022-11-07T15:39:36.050Z"
-image: "https://cdn.jsdelivr.net/gh/lzy940610/assets/img/202212182250864.webp"
+image: "https://images.unsplash.com/photo-1667372393119-3d4c48d07fc9?&fit=crop&w=430&h=240"
 category: "Tutorials"
 author: "Zhenyu Li"
 layout: "@layouts/BlogLayout.astro"

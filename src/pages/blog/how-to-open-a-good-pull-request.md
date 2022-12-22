@@ -1,5 +1,11 @@
 ---
-title: '如何创建一个PR'
+title: '如何提交PR'
+publishDate: "2022-12-22T15:39:36.050Z"
+image: "https://images.unsplash.com/photo-1667372393119-3d4c48d07fc9?&fit=crop&w=430&h=240"
+category: "Tutorials"
+author: "lzy940610"
+layout: "@layouts/BlogLayout.astro"
+tags: [PR, github, frontend]
 ---
 
 
